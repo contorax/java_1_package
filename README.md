@@ -1,2 +1,2 @@
-# java_first_steps
+# java_nachalo_steps
 Code works
